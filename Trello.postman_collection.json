@@ -162,7 +162,7 @@
 			"response": []
 		},
 		{
-			"name": "Delete a Board created",
+			"name": "Delete a Board created now",
 			"event": [
 				{
 					"listen": "test",
